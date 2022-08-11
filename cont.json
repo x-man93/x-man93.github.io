@@ -1,0 +1,62 @@
+{
+  "Version": [
+   
+   
+   	{
+	    	  "is_active": false ,
+	    	 
+			"ad_name": "start_app",
+			"startapp_counter_server_list":"30",
+			"startapp_counter_server_player":"30"
+			
+						
+
+		},
+	    
+	    
+    {
+      "fource": false ,
+      "unfource": false ,
+      "dialog_counter": "50",
+      "dialog_title":"قم بتحديث البرنامج",
+      
+         "dialog__ink":"https://play.google.com/store/apps/details?id=aghani.iraqi100",
+      
+      "dialog_body":"يوجد تحديث مهم",
+      
+      "ForceNewApp": false,
+      
+      "positive_button": " update",
+      
+       "negative_button": "Thanks",
+       
+       "isActivityIsVisible_server": true
+      
+      
+      
+      
+    },
+   
+    
+      {
+			"is_active": false ,
+			"ad_name": "admob",
+			"app_id": "ca-app-pub-9602864611291863~6166225040",
+				"banner_id":"ca-app-pub-3940256099942544/6300978111",
+			"int_id": "ca-app-pub-3940256099942544/1033173712",
+			
+			"admo_counter_server_list": "20",
+			"admo_counter_server_player": "20",
+			"Int_count": "3",
+			"isActivityIsVisible": true,
+			"Lyrics_Int_count" : 4,
+			"Activate_startapp_ads": true
+			
+	
+			
+		}
+		
+		
+
+  ]
+}
