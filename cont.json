@@ -1,13 +1,16 @@
 {
-  "Version": [
+  "Control": [
    
    
    	{
 	    	  "is_active": false ,
 	    	 
 			"ad_name": "start_app",
-			"startapp_counter_server_list":"30",
-			"startapp_counter_server_player":"30"
+			"admb_counter1":"3",
+			"admb_counter2":"2",
+			"admb_inter":false,
+			"admb_banner":false,
+			"admb_appopen":true
 			
 						
 
