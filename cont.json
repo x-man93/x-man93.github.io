@@ -3,16 +3,17 @@
    
    
    	{
-	    	  "is_active": false ,
+	    	  "is_active": "1" ,
 	    	 
 			"admb_counter1": "3",
 			"admb_counter2": "2",
-			"admb_inter": false,
-			"admb_banner": false,
-			"admb_appopen": true
+			"admb_inter": "",
+			"admb_banner": "ca-app-pub-3940256099942544/6300978111",
+			"admb_appopen": "",
+			"is_admb_inter_on": false,
+			"is_admb_banner_on": true,
+			"is_admb_appopen_on": false,
 			
-						
-
 		},
 	    
 	    
@@ -41,7 +42,7 @@
    
     
       {
-			"is_active": false ,
+			"is_active": "3" ,
 			"ad_name": "admob",
 			"app_id": "ca-app-pub-9602864611291863~6166225040",
 				"banner_id":"ca-app-pub-3940256099942544/6300978111",
