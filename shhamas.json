@@ -10,15 +10,15 @@
 			"admb_inter":"ca-app-pub-3940256099942544/1033173712",
 			"admb_banner":"ca-app-pub-3940256099942544/6300978111",
 			"admb_appopen":"ca-app-pub-3940256099942544/3419835294",
-			"is_admb_inter_on": false,
-			"is_admb_banner_on": true,
+			"is_admb_inter_on": true,
+			"is_admb_banner_on": false,
 			"is_admb_appopen_on": false
 			
 		},
 	    
 	    
     {
-      "fource": false ,
+      "fource": true ,
       "unfource": false ,
       "dialog_counter": "50",
       "dialog_title":"قم بتحديث البرنامج",
@@ -27,7 +27,7 @@
       
       "dialog_body":"يوجد تحديث مهم",
       
-      "ForceNewApp": true,
+      "ForceNewApp": true ,
       
       "positive_button": " update",
       
