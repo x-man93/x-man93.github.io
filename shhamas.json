@@ -5,14 +5,14 @@
    	{
 	    	  "is_active": "1" ,
 	    	 
-			"admb_counter1": "3",
-			"admb_counter2": "2",
+			"admb_counter1": "5",
+			"admb_counter2": "4",
 			"admb_inter":"ca-app-pub-2716894116802568/2125062204",
 			"admb_banner":"ca-app-pub-2716894116802568/7647307031",
 			"admb_appopen":"ca-app-pub-2716894116802568/6377890648",
 			"is_admb_inter_on": true,
 			"is_admb_banner_on": true,
-			"is_admb_appopen_on": false
+			"is_admb_appopen_on": true
 			
 		},
 	    
